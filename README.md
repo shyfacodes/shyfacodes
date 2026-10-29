@@ -13,6 +13,7 @@ I'm learning Python and data analysis step by step. I'm sharing my progress here
 - 🐍 Python
 - 🔢 NumPy
 - 🐼 Pandas
+-  🛢️  SQL
 
 ## 🚀 Learning Progress
 | Topic | Status |
@@ -20,8 +21,8 @@ I'm learning Python and data analysis step by step. I'm sharing my progress here
 | Python | 🔄 In progress |
 | NumPy | 🔄 In progress |
 | Pandas | 🔄 In progress |
-| Matplotlib | 🔜 Up next |
-| SQL | 🔜 Up next |
+|  SQL  | 🔄 In progress |
+|Matplotlib| 🔜 Up next |
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
